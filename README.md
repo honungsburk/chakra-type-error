@@ -1,17 +1,6 @@
-# ThisThing PWA
+# Bug report for chakra
 
-We keep track of things for you, so you don't have to.
+## Steps to reproduce
 
-## Commands
-
-#### Installation
-
-`npm install`
-
-#### Dev
-
-`npm run dev`
-
-#### Build
-
-`npm run build`
+1. `npm install``
+2. `npm run build`
