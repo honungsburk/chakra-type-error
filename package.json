@@ -1,0 +1,24 @@
+{
+  "name": "chakra-type-error",
+  "version": "0.1.0",
+  "description": "A error for a bug report",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "build-debug": "tsc && vite build --mode debug",
+    "preview": "vite preview"
+  },
+  "author": "Frank Hampus Weslien",
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.6",
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.0.1",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.4"
+  }
+}
